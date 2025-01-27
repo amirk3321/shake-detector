@@ -1,6 +1,6 @@
 # shake_detector
 
-A new Flutter project.
+Shake Detector project.
 
 ## Getting Started
 
